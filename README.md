@@ -2,6 +2,8 @@
 
 _Created: 14-06-2026 · Last updated: 11-07-2026_
 
+**Status: name-reservation** (24-09-2026) — this repository reserves the name; no active content yet. See [consolidation study §4e](https://github.com/gasyoun/Uprava/blob/main/CONSOLIDATION_SPIKE_REPOLESS_DICTIONARIES_THIN_VIEW_REPOS_2026Q3.md).
+
 SanskritCorpora is a metalevel repository under the [`gasyoun`](https://github.com/gasyoun) account. Its GitHub description is "Word by word translations": the repository is intended to hold source-bound, word-by-word translation material — plus the notes that describe, frame, coordinate, and explain such corpus work — rather than the day-to-day implementation details of a single project.
 
 > Status (11-07-2026): early stub. The repository currently contains only this `README.md` and CI plumbing (see [Current contents](#current-contents) below). The sections after it describe the intended purpose and shape, not material that already exists here.
